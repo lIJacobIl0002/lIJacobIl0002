@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lijacobil0002&label=Profile%20views&color=0e75b6&style=flat" alt="lijacobil0002" /> </p>
 
-Sup, my name is Jacob and i like to code. I also enjoying watching anime.
+Sup, my name is Jacob and i like to code. I also enjoy watching anime.
 
 Click below to contact me on discord.
 <p align="left">
