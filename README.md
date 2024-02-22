@@ -5,7 +5,7 @@ The names Kenni.
 Hobbies:
 <ul>
     <li>Programming</li>
-    <li>Playing Gaming</li>
+    <li>Playing Games</li>
     <li>Reading Manhwa</li>
 </ul>
 
