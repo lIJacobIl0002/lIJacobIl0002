@@ -7,10 +7,12 @@ Click below to contact me on discord.
 <a href="https://discord.com/users/764365008460841000" ><img src="https://lanyard-profile-readme.vercel.app/api/764365008460841000?idleMessage=Just%20chilling"/></a>
 </p>
 
-Language I am Currently learning
+Language(s) I am Currently learning
 <p align="left">
 <a href = "https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
 <a href = "https://www.computerhope.com/jargon/j/javascript.png" target="_blank" rel="noreferrer"> <img src="https://www.computerhope.com/jargon/j/javascript.png" alt="js" width="40" height="40"/> </a>
 </p>
 
-<p align="left"> &nbsp;<img align="center" src="https://grs.quantumly.dev/api/top-langs/?username=lIJacobIl0002&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=5865f2&count_private=true" alt="lijacobil0002" /></p>
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lIJacobIl0002&show_icons=true&theme=dark&locale=en&layout=compact" alt="Kenni" />
+
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lIJacobIl0002&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="Kenni" /></p>
